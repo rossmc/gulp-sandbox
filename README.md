@@ -5,7 +5,7 @@ A basic gulp dev environment which:
 * Watches, merges and minifies(optional) JavaScript.
 * Reloads the browser automatically whenever a file is saved.
 
-## Installation
+## Installation & Usage
 1. Requires node.js & npm.
 
    https://nodejs.org/en/download
